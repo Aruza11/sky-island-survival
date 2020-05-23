@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2bac3c37ed06da4a838c9bd0a9e6021, type: 3}
   m_Name: Red Apple
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 5734786957640093009, guid: 89d9f2f4939926a46bf5036bfdb08402, type: 3}
   type: 0
   description: 'An apple a day keeps the doctor away. Can be found in the Autumn. '
   restoreHealthValue: 16

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af6357871e1fa5044bf904eb6659674f, type: 3}
   m_Name: Wood Shield
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 6093644460732613593, guid: 1d63262edb791c24fbe5f376a07ca3d4, type: 3}
   type: 1
   description: 'Don''t get near fire. '
   atkBonus: 0
