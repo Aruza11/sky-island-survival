@@ -42,6 +42,5 @@ public class DisplayInventory : MonoBehaviour
 
     public void UpdateDisplay()
     {
-        return;
     }
 }
