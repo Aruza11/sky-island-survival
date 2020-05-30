@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 1516668326297266633, guid: 024928be0dfafa74bbd2139d1bcd6c50,
         type: 3}
       propertyPath: m_Name
-      value: Image Variant 1
+      value: PurpleTile
       objectReference: {fileID: 0}
     - target: {fileID: 7267670849114148424, guid: 024928be0dfafa74bbd2139d1bcd6c50,
         type: 3}
@@ -85,22 +85,22 @@ PrefabInstance:
     - target: {fileID: 8465468293211558957, guid: 024928be0dfafa74bbd2139d1bcd6c50,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -796
+      value: -190
       objectReference: {fileID: 0}
     - target: {fileID: 8465468293211558957, guid: 024928be0dfafa74bbd2139d1bcd6c50,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 294.7
+      value: 250
       objectReference: {fileID: 0}
     - target: {fileID: 8465468293211558957, guid: 024928be0dfafa74bbd2139d1bcd6c50,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 122.548706
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 8465468293211558957, guid: 024928be0dfafa74bbd2139d1bcd6c50,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 174.36075
+      value: 130
       objectReference: {fileID: 0}
     - target: {fileID: 8465468293211558957, guid: 024928be0dfafa74bbd2139d1bcd6c50,
         type: 3}

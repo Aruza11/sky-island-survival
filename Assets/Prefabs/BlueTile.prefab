@@ -80,22 +80,22 @@ PrefabInstance:
     - target: {fileID: 3812246614010199613, guid: 1d63262edb791c24fbe5f376a07ca3d4,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -796
+      value: -190
       objectReference: {fileID: 0}
     - target: {fileID: 3812246614010199613, guid: 1d63262edb791c24fbe5f376a07ca3d4,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 294.7
+      value: 250
       objectReference: {fileID: 0}
     - target: {fileID: 3812246614010199613, guid: 1d63262edb791c24fbe5f376a07ca3d4,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 122.548706
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 3812246614010199613, guid: 1d63262edb791c24fbe5f376a07ca3d4,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 174.36075
+      value: 130
       objectReference: {fileID: 0}
     - target: {fileID: 3812246614010199613, guid: 1d63262edb791c24fbe5f376a07ca3d4,
         type: 3}
@@ -127,10 +127,30 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 4420023991208909416, guid: 1d63262edb791c24fbe5f376a07ca3d4,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4420023991208909416, guid: 1d63262edb791c24fbe5f376a07ca3d4,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4420023991208909416, guid: 1d63262edb791c24fbe5f376a07ca3d4,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4420023991208909416, guid: 1d63262edb791c24fbe5f376a07ca3d4,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6093644460732613593, guid: 1d63262edb791c24fbe5f376a07ca3d4,
         type: 3}
       propertyPath: m_Name
-      value: Image Variant 2
+      value: BlueTile
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d63262edb791c24fbe5f376a07ca3d4, type: 3}

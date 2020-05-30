@@ -80,22 +80,22 @@ PrefabInstance:
     - target: {fileID: 1230173567037742583, guid: 816982468534cfb42b1a55485dec9788,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -796
+      value: -190
       objectReference: {fileID: 0}
     - target: {fileID: 1230173567037742583, guid: 816982468534cfb42b1a55485dec9788,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 294.7
+      value: 250
       objectReference: {fileID: 0}
     - target: {fileID: 1230173567037742583, guid: 816982468534cfb42b1a55485dec9788,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 122.548706
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 1230173567037742583, guid: 816982468534cfb42b1a55485dec9788,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 174.36075
+      value: 130
       objectReference: {fileID: 0}
     - target: {fileID: 1230173567037742583, guid: 816982468534cfb42b1a55485dec9788,
         type: 3}
@@ -130,7 +130,7 @@ PrefabInstance:
     - target: {fileID: 8171041649147895827, guid: 816982468534cfb42b1a55485dec9788,
         type: 3}
       propertyPath: m_Name
-      value: Image Variant 3
+      value: CyanTile
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 816982468534cfb42b1a55485dec9788, type: 3}

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3044031361780187191}
   - component: {fileID: 3044031361780187189}
   m_Layer: 0
-  m_Name: Red Apple
+  m_Name: Oak Log
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70,7 +70,7 @@ SpriteRenderer:
   m_SortingLayerID: 83943221
   m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: b8f8a7866ab69864f83f48a3c9e5fd72, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8019db4a2898f6c41b3b9f69e23de37e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -93,7 +93,7 @@ GameObject:
   - component: {fileID: 3044031362141372525}
   - component: {fileID: 3044031362141372499}
   m_Layer: 0
-  m_Name: Item
+  m_Name: OakLogItem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -107,7 +107,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3044031362141372524}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -33.7, y: 21.6, z: 0}
+  m_LocalPosition: {x: -33.57, y: 21.19, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 3044031361780187191}
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 69d8ab0c9c07cc9488020f6979e2d46f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  item: {fileID: 11400000, guid: 0a51c82d1e40b0043b700a9958f70a10, type: 2}
+  item: {fileID: 11400000, guid: c62b1f2897ab6944daa9a80b0429d4a3, type: 2}
 --- !u!58 &3044031362141372499
 CircleCollider2D:
   m_ObjectHideFlags: 0

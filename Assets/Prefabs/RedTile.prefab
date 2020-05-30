@@ -168,7 +168,7 @@ GameObject:
   - component: {fileID: 8793448160277988438}
   - component: {fileID: 4486064296598416080}
   m_Layer: 5
-  m_Name: Image
+  m_Name: RedTile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -191,8 +191,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -796, y: 294.7}
-  m_SizeDelta: {x: 122.548706, y: 174.36075}
+  m_AnchoredPosition: {x: -190, y: 250}
+  m_SizeDelta: {x: 60, y: 130}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8793448160277988438
 CanvasRenderer:

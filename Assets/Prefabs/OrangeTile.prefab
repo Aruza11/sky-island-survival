@@ -85,22 +85,22 @@ PrefabInstance:
     - target: {fileID: 3450079589677904053, guid: 89d9f2f4939926a46bf5036bfdb08402,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -796
+      value: -190
       objectReference: {fileID: 0}
     - target: {fileID: 3450079589677904053, guid: 89d9f2f4939926a46bf5036bfdb08402,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 294.7
+      value: 250
       objectReference: {fileID: 0}
     - target: {fileID: 3450079589677904053, guid: 89d9f2f4939926a46bf5036bfdb08402,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 122.548706
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 3450079589677904053, guid: 89d9f2f4939926a46bf5036bfdb08402,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 174.36075
+      value: 130
       objectReference: {fileID: 0}
     - target: {fileID: 3450079589677904053, guid: 89d9f2f4939926a46bf5036bfdb08402,
         type: 3}
@@ -145,7 +145,7 @@ PrefabInstance:
     - target: {fileID: 5734786957640093009, guid: 89d9f2f4939926a46bf5036bfdb08402,
         type: 3}
       propertyPath: m_Name
-      value: Image Variant
+      value: OrangeTile
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 89d9f2f4939926a46bf5036bfdb08402, type: 3}
