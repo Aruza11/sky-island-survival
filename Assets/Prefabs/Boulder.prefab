@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1187547265065488798}
   - component: {fileID: 1187547265065488797}
   - component: {fileID: 1187547265065488796}
+  - component: {fileID: -7018950694172120716}
   m_Layer: 0
   m_Name: Boulder
   m_TagString: Untagged
@@ -117,6 +118,18 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.5}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 1.1
+--- !u!114 &-7018950694172120716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1187547265065488787}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257612a8acebf1347bf86bbb36507e81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
